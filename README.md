@@ -15,7 +15,7 @@ Universidade Lusófona
 ### Objetivo desta ficha
 **Desenvolver duas aplicações, meteorologia e portfólio**:
 * Criar a aplicação Meteorologia, para se familiarizar com a utilização e criação de APIs
-* Criar a aplicação Portfolio, onde definirá a *landing-page* do seu website axxxxxx.pythonanywhere.com, e que integrará no menu apontadores para as aplicações que desenvolveu ao longo do semestre nas várias fichas. Integrará também páginas sobre si e sobre o website.
+* Criar a aplicação Portfolio, onde definirá a *landing-page* do seu website axxxxxx.pythonanywhere.com, e que interligará através do menu todas as aplicações desenvolvidas.
 * Aplicar em todas as páginas técnicas de CSS para aprimorar o layout e design, que deverá ser responsivo e dinâmico, garantindo que todas as paginas ficam bem no telemóvel e desktop. 
 * Criar um repositório GitHub.
 
