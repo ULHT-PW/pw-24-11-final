@@ -100,9 +100,11 @@ Em termos de parâmetros, deverá devolver:
 2. Conceba a *landing-page* como uma *hero page*, constituída por três componentes: uma imagem grande, uma frase média, e um menu pequeno. Veja o exemplo nos slides de [web design (pg. 42 e seguintes)](https://moodle.ensinolusofona.pt/pluginfile.php/615262/course/section/443721/pw-24-12-web-design.pptx) e o vídeo:
 https://github.com/ULHT-PW/pw-24-13-final/assets/42048382/885ce5fe-ec79-4aff-9b19-f033ac7dc65e
 4. Aprimore a estética da página usando algumas das técnicas disponiveis nos slides sobre [efeitos e animações com CSS](https://moodle.ensinolusofona.pt/pluginfile.php/615262/course/section/443721/pw-24-12-efeitos-e-animacoes.pptx), tais como o uso de uma imagem de fundo ou vídeo, respeitando as boas práticas de web design!
-3. Crie um menu que encaminhe para as páginas desta aplicação assim como para as restantes aplicações que construiu. Inclua o botão de login (use um icon de [Font Awesome](https://fontawesome.com/)). Veja o exemplo de como construir. Garanta que, em todas as aplicações, em urls define `app_name`, de modo a que não haja incongruencias com links de aplicações. Garanta que o menu está sempre disponível, permitindo a navegação entre todas as páginas.
-4. Integre na landing-page o icon do tempo que fará hoje, utilizando a API meteo que desenvolveu.
-5. Integre pelo menos 2 efeitos com JavaScript (que aprenderá na próxima semana) tais como botão de darkmode e apresentação da data e hora (com segundos a avançar).
+3. Crie um menu global que encaminhe para as páginas desta aplicação assim como para as restantes aplicações que construiu. Inclua o botão de login (use um icon de [Font Awesome](https://fontawesome.com/)).
+   * Garanta que, em todas as aplicações, em urls define `app_name`, de modo a que não haja incongruencias com links de aplicações.
+   * Garanta que o menu está sempre disponível, permitindo a navegação entre todas as páginas.
+5. Integre na landing-page o icon do tempo que fará hoje, utilizando a API meteo que desenvolveu.
+6. Integre pelo menos 2 efeitos com JavaScript (que aprenderá na próxima semana) tais como botão de darkmode e apresentação da data e hora (com segundos a avançar).
    
 ### 3. MeByMe
 * Crie uma página sobre si, a falar dos seus interesses, aptidões, competências, experiência, ao estilo de um CV. 
@@ -115,6 +117,7 @@ https://github.com/ULHT-PW/pw-24-13-final/assets/42048382/885ce5fe-ec79-4aff-9b1
 1. Crie e inclua um vídeo de 1 minuto "Django hands-on" para leigos, a explicar como é que funciona o Django, baseado no MVC. Explique como se estrutura um projeto Django: projeto, aplicação, models, views, urls, templates.
 1. Crie um vídeo de 1 minuto que faça uma "visita guiada" ao seu projeto Django e suas aplicações e páginas.
 1. Em termos de design, experimente aplicar o efeito parallax nesta página, descrito nos slides sobre [efeitos, slide 12](https://moodle.ensinolusofona.pt/pluginfile.php/615262/course/section/443721/pw-24-12-efeitos-e-animacoes.pptx) e [CodePen](https://codepen.io/LucioStuder/pen/XWVKzpK?editors=1100).
+1. Escolha uma palavra para colocar no menu link para esta página. Sobre, ou invente um nome ao seu gosto (WebWizardry, WebAlchemy, TechTools, WebTools, ...).
 
 ### 5. Automação
 1. Crie uma página onde apresente o vídeo resultante da automação que fez com Selenium (TPC teórico da próxima semana).
