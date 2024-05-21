@@ -1,19 +1,19 @@
 Universidade Lusófona
 **Programação Web**
 
-# Ficha 13: Última ficha
+# Ficha 13: Projeto 📜
 
 ### Notas sobre o Projeto
-* O projeto final congrega todas as tarefas descritas nas fichas 4 até esta, tarefas estas que constituem os requisitos do projeto.
+* O projeto congrega todas as tarefas descritas nas fichas 4 até esta, tarefas estas que constituem os requisitos do projeto.
 * A avaliação do projeto é feita avaliando a satisfação dos requisitos.
 * O deadline é o estipulado, 9 junho.
 * O prazo e submissão das fichas das últimas semanas é apenas sugestivo, não representando *hard-deadlines* de submissão. No entanto, têm sido criadas fichas semanais para planear o seu trabalho e pequenos módulos, realizar entregas regulares, e assim não acumular trabalho.
-* Esta é a última ficha do projeto.
+
 
 ### Objetivo desta ficha
 **Desenvolver duas aplicações, meteorologia e portfólio**:
 * Criar a aplicação Meteorologia, para se familiarizar com a utilização e criação de APIs
-* Criar a aplicação Portfolio, onde definirá a *landing-page* do seu website axxxxxx.pythonanywhere.com, e que integrará no menu apontadores para as aplicações que desenvolveu ao longo do semestre nas várias fichas, assim como mais algumas páginas sobre si e sobre o website.
+* Criar a aplicação Portfolio, onde definirá a *landing-page* do seu website axxxxxx.pythonanywhere.com, e que integrará no menu apontadores para as aplicações que desenvolveu ao longo do semestre nas várias fichas. Integrará também páginas sobre si e sobre o website.
 * Aplicar em todas as páginas técnicas de CSS para aprimorar o layout e design, que deverá ser responsivo e dinâmico, garantindo que todas as paginas ficam bem no telemóvel e desktop. 
 * Criar um repositório GitHub.
 
@@ -86,30 +86,30 @@ Em termos de parâmetros, deverá devolver:
 * Explore os slides sobre [layouts](https://moodle.ensinolusofona.pt/pluginfile.php/615262/course/section/443721/pw-24-12-layouts.pptx)
 * Recomendação: esta aplicação fará a ponte para todas as aplicações desenvolvidas nas fichas anteriores, com links no seu menu. Uma aplicação do principio KISS é reutilizar a palavra index para a pagina de chegada de todas as aplicações. Como temos várias aplicações dentro do mesmo projeto e todas teem um caminho/route com `name='index'`, e vamos integrar tudo, para evitar ambiguidades em links usa-se o `app_name`. Garanta que define em `urls.py` a variável `app_name=‘meteo’`, e o usa em todos os links, por exemplo `{% url ‘meteo:index’ %}`. 
 
-### Aplicação
+### 1. Aplicação
 1. No seu projeto, crie uma nova aplicação portfolio.
 2. Aprimore a estética das páginas desta aplicação usando algumas das técnicas apresentadas nos slides.
    
-### *Landing-page*
+### 2. *Landing-page*
 1. Crie uma belissima página *landing-page* do seu projeto. Será a página do URL axxxxxx.pythonanywhere.com, página de chegada ao seu website, aplicando um bom design, e com um menu com apontadores para todas as aplicações que constituem o projeto.
 2. Conceba a *landing-page* como uma *hero page*, constituída por três componentes: uma imagem grande, uma frase média, e um menu pequeno. Veja o exemplo nos slides de [web design (pg. 42 e seguintes)](https://moodle.ensinolusofona.pt/pluginfile.php/615262/course/section/443721/pw-24-12-web-design.pptx) e o vídeo:
 https://github.com/ULHT-PW/pw-24-13-final/assets/42048382/885ce5fe-ec79-4aff-9b19-f033ac7dc65e
 4. Aprimore a estética da página usando algumas das técnicas disponiveis nos slides sobre [efeitos e animações com CSS](https://moodle.ensinolusofona.pt/pluginfile.php/615262/course/section/443721/pw-24-12-efeitos-e-animacoes.pptx), tais como o uso de uma imagem de fundo ou vídeo, respeitando as boas práticas de web design!
 3. O menu deverá encaminhar para as aplicações que construiu. Veja o exemplo de como construir. Garanta que, em todas as aplicações, em urls define `app_name`, de modo a que não haja incongruencias com links de aplicações.
 
-### MeByMe
+### 3. MeByMe
 * Crie uma página sobre si, a falar dos seus interesses, aptidões, competências, experiência, ao estilo de um CV. 
 * Divida em partes, aplicando CSS flex para separar as várias componentes.
 * Seja criativo.
   
-### Sobre o seu Website
+### 4. Sobre o seu Website
 1. Imagine que vai ter uma entrevista de emprego e quer partilhar um link que apresente tudo o que sabe de programação Web. Será esta página, onde falará sobre todos os aspectos tecnológicos aplicados neste Website. Torne esta página numa boa carta de apresentação tecnológica.
 1. Liste as tecnologias que utilizou neste projeto Django.
 1. Crie e inclua um vídeo de 1 minuto "Django hands-on" para leigos, a explicar como é que funciona o Django, baseado no MVC. Explique como se estrutura um projeto Django: projeto, aplicação, models, views, urls, templates.
 1. Crie um vídeo de 1 minuto que faça uma "visita guiada" ao seu projeto Django e suas aplicações e páginas.
 1. Em termos de design, experimente aplicar o efeito parallax nesta página, descrito nos slides sobre [efeitos, slide 12](https://moodle.ensinolusofona.pt/pluginfile.php/615262/course/section/443721/pw-24-12-efeitos-e-animacoes.pptx) e [CodePen](https://codepen.io/LucioStuder/pen/XWVKzpK?editors=1100).
 
-### Automação
+### 5. Automação
 1. Crie uma página onde apresente o vídeo resultante da automação que fez com Selenium (TPC teórico da próxima semana).
 
 # Criação de repositório GitHub
@@ -122,3 +122,7 @@ https://github.com/ULHT-PW/pw-24-13-final/assets/42048382/885ce5fe-ec79-4aff-9b1
    * `git remote add origin https://github.com/axxxxxx-projeto-pw`
    * git push -u origin main
   
+   
+# Submissão
+* submeta o link para o seu projeto aqui
+* garanta que adicionou em `PythonAnyWhere\Account\Education\Yout Teacher` o user `pwprofs`
