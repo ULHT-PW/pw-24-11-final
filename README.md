@@ -3,11 +3,13 @@ Universidade Lusófona
 
 # Ficha 13: Projeto 📜
 
-### Notas sobre o Projeto
-* O projeto congrega todas as tarefas descritas nas fichas 4 até esta, tarefas estas que constituem os requisitos do projeto.
-* A avaliação do projeto é feita avaliando a satisfação dos requisitos.
-* O deadline é o estipulado, 9 junho.
-* O prazo e submissão das fichas das últimas semanas é apenas sugestivo, não representando *hard-deadlines* de submissão. No entanto, têm sido criadas fichas semanais para planear o seu trabalho e pequenos módulos, realizar entregas regulares, e assim não acumular trabalho.
+### Enquadramento
+* O projeto congrega todas as tarefas descritas nas fichas 4 até esta.
+* A avaliação do projeto é feita avaliando a satisfação dos requisitos, que são as várias tarefas especificadas nas fichas 4 a 12.
+* O prazo de submissão do projeto é 9 junho (o prazo e submissão das fichas das últimas semanas é apenas sugestivo, não representando *hard-deadlines* de submissão. No entanto, têm sido criadas fichas semanais para planear o seu trabalho e pequenos módulos, realizar entregas regulares, e assim não acumular trabalho).
+* A defesa do projeto será no dia 11 de junho de manhã. Terá duas partes: 
+   * implementação de um conjunto de alterações ao projeto.
+   * apresentação do website para os colegas.
 
 
 ### Objetivo desta ficha
