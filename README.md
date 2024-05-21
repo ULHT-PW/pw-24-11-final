@@ -86,20 +86,22 @@ Em termos de parâmetros, deverá devolver:
 * Explore os slides sobre [web design](https://moodle.ensinolusofona.pt/pluginfile.php/615262/course/section/443721/pw-24-12-web-design.pptx)
 * Explore os slides sobre [efeitos e animações com CSS](https://moodle.ensinolusofona.pt/pluginfile.php/615262/course/section/443721/pw-24-12-efeitos-e-animacoes.pptx)
 * Explore os slides sobre [layouts](https://moodle.ensinolusofona.pt/pluginfile.php/615262/course/section/443721/pw-24-12-layouts.pptx)
-* Recomendação: esta aplicação fará a ponte para todas as aplicações desenvolvidas nas fichas anteriores, com links no seu menu. Uma aplicação do principio KISS é reutilizar a palavra index para a pagina de chegada de todas as aplicações. Como temos várias aplicações dentro do mesmo projeto e todas teem um caminho/route com `name='index'`, e vamos integrar tudo, para evitar ambiguidades em links usa-se o `app_name`. Garanta que define em `urls.py` a variável `app_name=‘meteo’`, e o usa em todos os links, por exemplo `{% url ‘meteo:index’ %}`.
 
+Relembramos também que:
+* Aprimore a estética das páginas desta aplicação usando algumas das técnicas apresentadas nos slides.
+* Aplique as tecnicas CSS aplicadas nas últimas fichas, tais como flex, grid.
+* Escolha e use uma fonte Google a seu gosto.
+* Esta aplicação fará a ponte para todas as aplicações desenvolvidas nas fichas anteriores, com links no seu menu. Uma aplicação do principio KISS é reutilizar a palavra index para a pagina de chegada de todas as aplicações. Como temos várias aplicações dentro do mesmo projeto e todas teem um caminho/route com `name='index'`, e vamos integrar tudo, para evitar ambiguidades em links usa-se o `app_name`. Garanta que define em `urls.py` a variável `app_name=‘meteo’`, e o usa em todos os links, por exemplo `{% url ‘meteo:index’ %}`.
+  
 ### 1. Aplicação
-1. No seu projeto, crie uma nova aplicação portfolio.
-2. Aprimore a estética das páginas desta aplicação usando algumas das técnicas apresentadas nos slides.
-3. Aplique as tecnicas CSS aplicadas nas últimas fichas, tais como flex, grid.
-4. Escolha e use uma fonte Google a seu gosto.
-   
+* No seu projeto, crie uma nova aplicação portfolio.
+
 ### 2. *Landing-page*
-1. Crie uma belissima página *landing-page* do seu projeto. Será a página do URL axxxxxx.pythonanywhere.com, página de chegada ao seu website, aplicando um bom design, e com um menu com apontadores para todas as aplicações que constituem o projeto.
+1. Crie uma  página *landing-page* do seu projeto. Será a página do URL axxxxxx.pythonanywhere.com, página de chegada ao seu website.
 2. Conceba a *landing-page* como uma *hero page*, constituída por três componentes: uma imagem grande, uma frase média, e um menu pequeno. Veja o exemplo nos slides de [web design (pg. 42 e seguintes)](https://moodle.ensinolusofona.pt/pluginfile.php/615262/course/section/443721/pw-24-12-web-design.pptx) e o vídeo:
 https://github.com/ULHT-PW/pw-24-13-final/assets/42048382/885ce5fe-ec79-4aff-9b19-f033ac7dc65e
 4. Aprimore a estética da página usando algumas das técnicas disponiveis nos slides sobre [efeitos e animações com CSS](https://moodle.ensinolusofona.pt/pluginfile.php/615262/course/section/443721/pw-24-12-efeitos-e-animacoes.pptx), tais como o uso de uma imagem de fundo ou vídeo, respeitando as boas práticas de web design!
-3. Crie um menu global que encaminhe para as páginas desta aplicação assim como para as restantes aplicações que construiu. Inclua o botão de login (use um icon de [Font Awesome](https://fontawesome.com/)).
+3. Crie um menu que encaminhe para as páginas desta aplicação assim como para as restantes aplicações que construiu. Inclua o botão de login (use um icon de [Font Awesome](https://fontawesome.com/)).
    * Garanta que, em todas as aplicações, em urls define `app_name`, de modo a que não haja incongruencias com links de aplicações.
    * Garanta que o menu está sempre disponível, permitindo a navegação entre todas as páginas.
 5. Integre na landing-page o icon do tempo que fará hoje, utilizando a API meteo que desenvolveu.
