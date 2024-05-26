@@ -22,7 +22,7 @@ Universidade Lusófona
 
 # Aplicação de Meteorologia 🌦️
 
-### 0. Antes de iniciar esta aplicação:
+### 0. Antes de comecar a desenvolver esta aplicação, veja os passos e links para informacao necessaria:
 * reveja os [slides](https://moodle.ensinolusofona.pt/pluginfile.php/615262/course/section/443721/pw-24-12-django-apis.pptx) sobre APIs
 * explore a API do IPMA, em https://api.ipma.pt/. Em particular. familiarize-se com:
    * Previsões de vários tipos, disponiveis em URLs específicos e retornando dados em formato JSON. Exemplo de [endpoint](https://api.ipma.pt/open-data/forecast/meteorology/cities/daily/1110600.json)
