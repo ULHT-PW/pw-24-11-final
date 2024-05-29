@@ -99,8 +99,7 @@ Relembramos também que:
 
 ### 2. *Landing-page*
 1. Crie uma  página *landing-page* do seu projeto. Será a página do URL axxxxxx.pythonanywhere.com, página de chegada ao seu website.
-2. Conceba a *landing-page* como uma *hero page*, constituída por três componentes: uma imagem grande, uma frase média, e um menu pequeno. Veja o exemplo nos slides de [web design (pg. 42 e seguintes)](https://moodle.ensinolusofona.pt/pluginfile.php/615262/course/section/443721/pw-24-12-web-design.pptx) e o vídeo:
-https://github.com/ULHT-PW/pw-24-13-final/assets/42048382/885ce5fe-ec79-4aff-9b19-f033ac7dc65e
+2. Conceba a *landing-page* como uma *hero page*, constituída por três componentes: uma imagem grande, uma frase média, e um menu pequeno. Veja o exemplo nos slides de [web design (pg. 42 e seguintes)](https://moodle.ensinolusofona.pt/pluginfile.php/615262/course/section/443721/pw-24-12-web-design.pptx) e o vídeo do slide 48.
 4. Aprimore a estética da página usando algumas das técnicas disponiveis nos slides sobre [efeitos e animações com CSS](https://moodle.ensinolusofona.pt/pluginfile.php/615262/course/section/443721/pw-24-12-efeitos-e-animacoes.pptx), tais como o uso de uma imagem de fundo ou vídeo, respeitando as boas práticas de web design!
 3. Crie um menu que encaminhe para as páginas desta aplicação assim como para as restantes aplicações que construiu. Inclua o botão de login (use um icon de [Font Awesome](https://fontawesome.com/)).
    * Garanta que, em todas as aplicações, em urls define `app_name`, de modo a que não haja incongruencias com links de aplicações.
