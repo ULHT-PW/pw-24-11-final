@@ -124,8 +124,8 @@ Relembramos também que:
 1. Crie uma página onde apresente o vídeo resultante da automação que fez com Selenium (TPC teórico da próxima semana).
 
 # Criação de repositório GitHub
-1. veja a página sobre [GitHub](https://github.com/ULHT-PW/git/blob/main/README.md) que tem todos os detalhes necessários.
-2. crie um repositório GitHub para o seu projeto com o nome axxxxxx-projeto-pw
+1. veja o [vídeo](https://github.com/ULHT-PW/git/blob/main/README.md) com todos os detalhes de como o fazer.
+2. crie, no GitHub, um repositório para o seu projeto com o nome axxxxxx-projeto-pw
 3. carregue o projeto do PythonAnyWhere para esse repositório. Para tal, abra a consola, e na pasta onde está o `manage.py` execute os seguintes comandos:
    * `git init`
    * `git add *`
