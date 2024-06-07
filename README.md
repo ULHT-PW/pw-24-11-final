@@ -1,11 +1,11 @@
 Universidade Lusófona
 **Programação Web**
 
-# Ficha 11: Projeto 📜
+# Ficha 11: Ultima parte do Projeto 📜
 
 ### Enquadramento
 * Esta é a última ficha constituinte do projeto de Programação Web.
-* O projeto congrega todas as tarefas (= requisitos do projeto) descritas nas fichas 4 a 11.
+* **O projeto congrega todas as tarefas (= requisitos do projeto) descritas nas fichas 4 a 11: aplicacao bandas, curso, artigos, autenticacao, meteorologia, portfolio, e todos os detalhes das várias fichas semanais**.
 * O prazo de submissão do projeto é 9 junho (o prazo e submissão das fichas das últimas semanas é apenas sugestivo, não representando *hard-deadlines* de submissão. No entanto, têm sido criadas fichas semanais para dosear o trabalho e pequenos módulos, realizando entregas regulares para se disciplinar e assim não acumular trabalho).
 * A avaliação do projeto é feita avaliando a satisfação dos requisitos assim como a defesa.
 * A defesa do projeto será no dia 11 de junho de manhã, 8h-13h, salas F.3.6, F.3.7 e Q.3.1. A distribuição de alunos e horários de defesa detalhada serão publicados perto da defesa.
