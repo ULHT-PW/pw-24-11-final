@@ -1,7 +1,18 @@
 Universidade Lusófona
 **Programação Web**
 
-# Ficha 11: Ultima parte do Projeto 📜
+# Ficha 11: Projeto 📜
+
+O projeto tem sido desenvolvido ao longo do semestre de forma incremental. É constituido por:
+* [ficha 4](https://github.com/ULHT-PW/pw-24-04-ficha-modelacao)
+* [ficha 5](https://github.com/ULHT-PW/pw-24-05-ficha-modelacao)
+* [ficha 6](https://github.com/ULHT-PW/pw-24-06-ficha-MVT)
+* [ficha 7](https://github.com/ULHT-PW/pw-24-07-ficha-MVT)
+* [ficha 8](https://github.com/ULHT-PW/pw-24-08-ficha-MVT)
+* [ficha 9](https://github.com/ULHT-PW/pw-24-09-ficha-CSS)
+* [ficha 10](https://github.com/ULHT-PW/pw-24-10-design-responsivo)
+* [ficha 11](https://github.com/ULHT-PW/pw-24-11-final)
+Todos os aspectos devem estar integrados.
 
 ### Enquadramento
 * Esta é a última ficha constituinte do projeto de Programação Web.
