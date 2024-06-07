@@ -13,7 +13,7 @@ O projeto tem sido desenvolvido ao longo do semestre de forma incremental. É co
 * [ficha 10](https://github.com/ULHT-PW/pw-24-10-design-responsivo)
 * [ficha 11](https://github.com/ULHT-PW/pw-24-11-final)
 
-Todos os aspectos aboraddos nestas fichas devem estar integrados no seu projeto final no pythonanywhere.
+Todos os aspectos abordados nestas fichas devem estar integrados no seu projeto final no pythonanywhere. Este é o última ficha que apresenta as últimos aspectos a integrar.
 
 ### Enquadramento
 * Esta é a última ficha constituinte do projeto de Programação Web.
